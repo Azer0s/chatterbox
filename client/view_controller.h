@@ -1,0 +1,10 @@
+#ifndef CHATTERBOX_VIEW_CONTROLLER_H
+#define CHATTERBOX_VIEW_CONTROLLER_H
+
+
+class view_controller {
+
+};
+
+
+#endif //CHATTERBOX_VIEW_CONTROLLER_H
